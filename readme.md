@@ -1,0 +1,1 @@
+# Node code to crawl and capture full screen image.
